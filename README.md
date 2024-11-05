@@ -14,7 +14,7 @@ This project includes:
 
 The dataset used is the **IMDB Movie Review Dataset**:
 - **50,000 reviews** labeled as either positive or negative.
-- Downloaded from Kaggle (link [here]([https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews))).
+- Downloaded from Kaggle (link [here](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)).
 
 ## Project Structure
 
